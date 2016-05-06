@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- TemplateParam name="vladmir-nabokov" type="boolean" value="true" -->
+<!-- TemplateParam name="nicholas-sparks" type="boolean" value="true" -->
+<!-- TemplateParam name="jk-rowling" type="boolean" value="true" -->
+<!-- TemplateParam name="lois-lowry" type="boolean" value="true" -->
+<!-- TemplateParam name="frank-beddor" type="boolean" value="true" -->
+</head>
+
+<body>
+<p><a href="../index.html">Authors Main Page </a></p>
+<ul>
+  <li><a href="../vladimir-nabokov/index.html">Vladimir Nabokov</a><!-- TemplateBeginIf cond="_document['vladmir-nabokov']" -->
+    <ul>
+      <li><a href="../vladimir-nabokov/transparent-things.html">Transparent Things</a></li>
+      <li><a href="../vladimir-nabokov/lolita.html">Lolita </a></li>
+      <li><a href="../vladimir-nabokov/pale-fire.html">Pale Fire</a></li>
+    </ul>
+  <!-- TemplateEndIf --> </li>
+  <li><a href="../nicholas-sparks/index.html">Nicholas Sparks </a><!-- TemplateBeginIf cond="_document['nicholas-sparks']" -->
+    <ul>
+      <li><a href="../nicholas-sparks/the-notebook.html">The Notebook</a></li>
+      <li><a href="../nicholas-sparks/the-longest-ride.html">The Longest Ride</a></li>
+      <li><a href="../nicholas-sparks/the-best-of-me.html">The Best o</a><a href="../nicholas-sparks/the-best-of-me.html">f Me</a></li>
+    </ul>
+  <!-- TemplateEndIf --> </li>
+  <li><a href="../joanne-rowling/index.html">Joanne Rowling</a><!-- TemplateBeginIf cond="_document['jk-rowling']" -->
+    <ul>
+      <li><a href="../joanne-rowling/harry-potter-.philosophers-stone.html">Harry Potter and the Philosophers Stone</a></li>
+      <li><a href="../joanne-rowling/harry-potter-chamber-secrets.html">Harry Potter and the Chamber of Secrets </a></li>
+      <li><a href="../joanne-rowling/harry-potter-half-blood-prince.html">Harry Potter and the Half Blood Prince</a></li>
+    </ul>
+  <!-- TemplateEndIf --> </li>
+  <li><a href="../lois-lowry/index.html">Lois Lowry</a><!-- TemplateBeginIf cond="_document['lois-lowry']" -->
+    <ul>
+      <li><a href="../lois-lowry/the-giver.html">The Giver </a></li>
+      <li><a href="../lois-lowry/number-the-stars.html">Number the Stars</a></li>
+      <li><a href="../lois-lowry/gossamer.html">Gossamer</a></li>
+    </ul>
+  <!-- TemplateEndIf --> </li>
+  <li><a href="../frank-beddor/index.html">Frank Beddor </a><!-- TemplateBeginIf cond="_document['frank-beddor']" -->
+    <ul>
+      <li><a href="../frank-beddor/the-looking-glass-wars.html">The Looking Glass Wars</a></li>
+      <li><a href="../frank-beddor/seeing-redd.html">Seeing Redd </a></li>
+      <li><a href="../frank-beddor/arch-enemy.html">ArchEnemy </a></li>
+    </ul>
+  <!-- TemplateEndIf --> </li>
+</ul>
+<!-- TemplateBeginEditable name="editable" -->
+<p>editable</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<!-- TemplateEndEditable -->
+</body>
+</html>
